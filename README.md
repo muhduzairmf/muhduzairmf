@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @muhduzairmf
-- 👀 I’m interested in Software Development, Cloud Services, Machine Learning, Data Science and Operating System
+- 👀 I’m interested in 
+  1. Software Development
+  2. Networking
+  3. Cyber Security
+  4. Operating System
+  5. Cloud Services
+
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Flutter and Python.
 
 <!---
