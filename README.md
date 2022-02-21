@@ -10,7 +10,7 @@
 - 🌱 Technology that I am using and still currently learning to improve myself.        
   
   
-  1. **Frontend Development**
+1. **Frontend Development**
 <table>
     <tbody>
         <tr>
@@ -23,7 +23,7 @@
     </tbody>
 </table>
 
-  2. **Backend Develepment**
+2. **Backend Develepment**
 <table>
     <tbody>
         <tr>
@@ -42,7 +42,7 @@
 </table>
 
 
-  3. **Databases**
+3. **Databases**
 <table>
     <tbody>
         <tr>
@@ -54,7 +54,7 @@
 </table>
 
 
-  4. **Others**
+4. **Others**
 <table>
     <tbody>
         <tr>
