@@ -13,11 +13,11 @@
 <table>
     <tbody>
         <tr>
-            <td><img src="assets/html.svg" alt="HTML" /></td>
-            <td><img src="assets/css.svg" alt="CSS" /></td>
-            <td><img src="assets/javascript.svg" alt="JavaScript" /></td>
-            <td><img src="assets/vite.svg" alt="Vite" /></td>
-            <td><img src="assets/svelte.svg" alt="Svelte" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/html.svg" alt="HTML" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/css.svg" alt="CSS" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/javascript.svg" alt="JavaScript" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/vite.svg" alt="Vite" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/svelte.svg" alt="Svelte" /></td>
         </tr>
     </tbody>
 </table>
@@ -26,12 +26,12 @@
 <table>
     <tbody>
         <tr>
-            <td><img src="assets/nodejs.svg" alt="Node.js" /></td>
-            <td><img src="assets/express.svg" alt="Express" /></td>
-            <td><img src="assets/python.svg" alt="Python" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/nodejs.svg" alt="Node.js" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/express.svg" alt="Express" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/python.svg" alt="Python" /></td>
             <td><img src="assets/fastapi.png" alt="FastAPI" /></td>
-            <td><img src="assets/go.svg" alt="Go" /></td>
-            <td><img src="assets/fiber.svg" alt="Fiber" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/go.svg" alt="Go" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/fiber.svg" alt="Fiber" /></td>
         </tr>
     </tbody>
 </table>
@@ -41,9 +41,9 @@
 <table>
     <tbody>
         <tr>
-            <td><img src="assets/sqlite.svg" alt="SQLite" /></td>
-            <td><img src="assets/mysql.svg" alt="MySQL" /></td>
-            <td><img src="assets/mongodb.svg" alt="MongoDB" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/sqlite.svg" alt="SQLite" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/mysql.svg" alt="MySQL" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/mongodb.svg" alt="MongoDB" /></td>
         </tr>
     </tbody>
 </table>
@@ -53,11 +53,11 @@
 <table>
     <tbody>
         <tr>
-            <td><img src="assets/strapi.svg" alt="Strapi" /></td>
-            <td><img src="assets/firebase.svg" alt="Firebase" /></td>
-            <td><img src="assets/supabase.svg" alt="Supabase" /></td>
-            <td><img src="assets/bash.svg" alt="Bash" /></td>
-            <td><img src="assets/docker.svg" alt="Docker" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/strapi.svg" alt="Strapi" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/firebase.svg" alt="Firebase" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/supabase.svg" alt="Supabase" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/bash.svg" alt="Bash" /></td>
+            <td><img style="height: 100px; width: auto;" src="assets/docker.svg" alt="Docker" /></td>
         </tr>
     </tbody>
 </table>
