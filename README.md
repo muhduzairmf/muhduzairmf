@@ -7,7 +7,8 @@
   4. Operating System
   5. Cloud Services
 
-- 🌱 Technology that I am using and still currently learning to improve myself.
+- 🌱 Technology that I am using and still currently learning to improve myself.        
+  
   
   1. **Frontend Development**
 <table>
