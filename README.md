@@ -10,28 +10,54 @@
 - 🌱 Technology that I am using and still currently learning to improve myself.
 
 #### Frontend Development
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/html.svg" alt="HTML" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/css.svg" alt="CSS" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/javascript.svg" alt="JavaScript" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/vite.svg" alt="Vite" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/svelte.svg" alt="Svelte" />
+<table>
+    <tbody>
+        <tr>
+            <td><img height="100px" width="auto" src="assets/html.svg" alt="HTML" /></td>
+            <td><img height="100px" width="auto" src="assets/css.svg" alt="CSS" /></td>
+            <td><img height="100px" width="auto" src="assets/javascript.svg" alt="JavaScript" /></td>
+            <td><img height="100px" width="auto" src="assets/vite.svg" alt="Vite" /></td>
+            <td><img height="100px" width="auto" src="assets/svelte.svg" alt="Svelte" /></td>
+        </tr>
+    </tbody>
+</table>
 
 #### Backend Develepment
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/nodejs.svg" alt="Node.js" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/express.svg" alt="Express" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/python.svg" alt="Python" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/fastapi.png" alt="FastAPI" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/go.svg" alt="Go" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/fiber.svg" alt="Fiber" />
+<table>
+    <tbody>
+        <tr>
+            <td><img height="100px" width="auto" src="assets/nodejs.svg" alt="Node.js" /></td>
+            <td><img height="100px" width="auto" src="assets/express.svg" alt="Express" /></td>
+            <td><img height="100px" width="auto" src="assets/python.svg" alt="Python" /></td>
+            <td><img height="100px" width="auto" src="assets/fastapi.png" alt="FastAPI" /></td>
+            <td><img height="100px" width="auto" src="assets/go.svg" alt="Go" /></td>
+            <td><img height="100px" width="auto" src="assets/fiber.svg" alt="Fiber" /></td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### Databases
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/sqlite.svg" alt="SQLite" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/mysql.svg" alt="MySQL" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/mongodb.svg" alt="MongoDB" />
+<table>
+    <tbody>
+        <tr>
+            <td><img height="100px" width="auto" src="assets/sqlite.svg" alt="SQLite" /></td>
+            <td><img height="100px" width="auto" src="assets/mysql.svg" alt="MySQL" /></td>
+            <td><img height="100px" width="auto" src="assets/mongodb.svg" alt="MongoDB" /></td>
+        </tr>
+    </tbody>
+</table>
+
 
 #### Others
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/strapi.svg" alt="Strapi" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/firebase.svg" alt="Firebase" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/supabase.svg" alt="Supabase" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/bash.svg" alt="Bash" />
-<img style="height: 100px; width: auto; padding: 10px; display: inline-block;" src="assets/docker.svg" alt="Docker" />
+<table>
+    <tbody>
+        <tr>
+            <td><img height="100px" width="auto" src="assets/strapi.svg" alt="Strapi" /></td>
+            <td><img height="100px" width="auto" src="assets/firebase.svg" alt="Firebase" /></td>
+            <td><img height="100px" width="auto" src="assets/supabase.svg" alt="Supabase" /></td>
+            <td><img height="100px" width="auto" src="assets/bash.svg" alt="Bash" /></td>
+            <td><img height="100px" width="auto" src="assets/docker.svg" alt="Docker" /></td>
+        </tr>
+    </tbody>
+</table>
