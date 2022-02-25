@@ -11,6 +11,6 @@
   
 ![Tech Stack Banner](https://raw.githubusercontent.com/muhduzairmf/muhduzairmf/master/my_tech_stack.png)    
 
-<p align="center">
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhduzairmf)](https://github.com/muhduzairmf/github-readme-stats)
-</p>
+</div>
