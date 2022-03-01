@@ -1,4 +1,4 @@
-# Hello! My name is Muhammad Uzair.    
+# Hello! My name is Muhammad Uzair 👦    
 
 - 💻 I am student in Bachelors Degree of Computer Science (Software Engineering) with honours.     
 
