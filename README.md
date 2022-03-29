@@ -3,11 +3,11 @@
 - 💻 I am student in Bachelors Degree of Computer Science (Software Engineering) with honours.     
 
 - 👀 I am interested in 
-  1. Software Development
-  2. Networking
-  3. Cyber Security
-  4. Operating System
-  5. Cloud Services
+  1. Frent-end Development
+  2. Back-end Development
+  3. DevOps
+  4. Cloud Computing
+  5. Information Security
 
 - 🌱 Technology that I am using and still currently learning to improve myself.        
   
