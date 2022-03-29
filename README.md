@@ -3,7 +3,7 @@
 - 💻 I am student in Bachelors Degree of Computer Science (Software Engineering) with honours.     
 
 - 👀 I am interested in 
-  1. Frent-end Development
+  1. Front-end Development
   2. Back-end Development
   3. DevOps
   4. Cloud Computing
