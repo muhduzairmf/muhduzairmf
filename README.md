@@ -45,5 +45,6 @@ HTML, CSS, JavaScript <br><br>
 ![Web Server](./banners/web-server.png)     
      
 [Visual Studio Code](https://code.visualstudio.com) <br><br>
+![Code Editor](./banners/code-editor.png)       
 
 - ✨ I am passionate about any IT related field, especially in my interesting above. So I can spend time wisely to learn something new.
