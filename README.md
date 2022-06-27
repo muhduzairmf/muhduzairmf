@@ -10,57 +10,40 @@
   5. Information Security
 
 - 🌱 Technology that I am using and still currently learning to improve myself.        
-  1. HTML   
-  2. CSS   
-  3. JavaScript    
-  4. [Bootstrap](https://getbootstrap.com/)   
-  5. [TailwindCSS](https://tailwindcss.com/)          
-  6. [Vite](https://vitejs.dev/)   
-  7. [React.js](https://reactjs.org/)   
-  8. [Vue.js](https://vuejs.org/)   
-  9. [Alpine.js](https://alpinejs.dev/)       
-  10. [Node.js](https://nodejs.org/en/)   
-  11. [Express](https://expressjs.com/)
-  12. [Python](https://www.python.org/)   
-  13. [Django](https://www.djangoproject.com/)
-  14. [PHP](https://www.php.net/)   
-  15. [Laravel](https://laravel.com/) 
-  16. [MySQL](https://www.mysql.com/)   
-  17. [PostgreSQL](https://www.postgresql.org/) 
-  18. [MongoDB](https://www.mongodb.com/)   
-  19. [Redis](https://redis.io/) 
-  20. [Docker](https://www.docker.com/)
-  21. [GitHub](https://github.com/) 
-  22. [Nginx](https://www.nginx.com/)
 
+HTML, CSS, JavaScript       
 ![Frontend Basic](./banners/frontend1.png)     
     
-
+[Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/)        
 ![CSS Framework](./banners/frontend2.png)
     
-
+[Vite](https://vitejs.dev/), [React.js](https://reactjs.org/), [Vue.js](https://vuejs.org/), [Alpine.js](https://alpinejs.dev/)          
 ![JS Framework](./banners/frontend3.png)     
   
-
+[Node.js](https://nodejs.org/en/), [Express](https://expressjs.com/)         
 ![Backend JS](./banners/backend-js.png)     
    
-
+[Python](https://www.python.org/), [Django](https://www.djangoproject.com/)           
 ![Backend Python](./banners/backend-py.png)     
    
-
+[PHP](https://www.php.net/), [Laravel](https://laravel.com/)         
 ![Backend PHP](./banners/backend-php.png)     
   
-
+[MySQL](https://www.mysql.com/), [PostgreSQL](https://www.postgresql.org/)       
 ![SQL Databases](./banners/sql-database.png)     
   
-
+[MongoDB](https://www.mongodb.com/), [Redis](https://redis.io/)        
 ![NoSQL Database](./banners/nosql-database.png)     
   
-
+[Docker](https://www.docker.com/)         
 ![Containerization](./banners/container.png)     
    
-
+[GitHub](https://github.com/)         
 ![Version Control](./banners/version-control.png)     
   
-
+[Nginx](https://www.nginx.com/)        
 ![Web Server](./banners/web-server.png)     
+     
+[Visual Studio Code](https://code.visualstudio.com)
+
+- ✨ I am passionate about any IT related field, especially in my interesting above. So I can spend time wisely to learn something new.
