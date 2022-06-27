@@ -9,6 +9,8 @@
   4. Cloud Computing
   5. Information Security
 
+- ✨ I am passionate about any IT related field, especially in my interesting above. So I can spend time to learn something new.
+
 - 🌱 Technology that I am using and still currently learning to improve myself.        
 
 HTML, CSS, JavaScript <br><br>
@@ -47,4 +49,3 @@ HTML, CSS, JavaScript <br><br>
 [Visual Studio Code](https://code.visualstudio.com) <br><br>
 ![Code Editor](./banners/code-editor.png)       
 
-- ✨ I am passionate about any IT related field, especially in my interesting above. So I can spend time wisely to learn something new.
